@@ -17,6 +17,7 @@ header {
 header h1{
     color: white;
     border: 8px solid white;
+    text-align: center;
     padding: 6px 12px;
     display: inline-block;
     border-radius: 26px;
